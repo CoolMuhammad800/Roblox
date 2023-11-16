@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    font-size: 65px;
+    color: burlywood;
+}
+h3{
+    font-size: 40px;
+}
+p{
+    font-size: 30px;
+    color: darkkhaki;
+}
+body{
+   background-color: blanchedalmond ;
+}
+li{
+    font-size: 30px;
+    color: darkkhaki;
+}
+
+a{
+    color: azure;
+}
+a:visited ,:active{
+       color: burlywood;
+}
+header{
+    text-align: center;
+    font-size: 40px;
+}
